@@ -1,3 +1,6 @@
 [submodule "IntroMLBookExercises"]
 	path = IntroMLBookExercises
 	url = https://github.com/umitsarioz/repo4DL.git
+[submodule "classification4FashionMNIST"]
+	path = classification4FashionMNIST
+	url = https://github.com/umitsarioz/Classification4FashionMNIST.git
