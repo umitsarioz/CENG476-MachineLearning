@@ -1,0 +1,3 @@
+[submodule "IntroMLBookExercises"]
+	path = IntroMLBookExercises
+	url = https://github.com/umitsarioz/repo4DL.git
